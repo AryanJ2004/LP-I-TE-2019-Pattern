@@ -41,7 +41,6 @@ int main() {
         }
     }
 
-    // Print MNT Table
     printf("\n\nMNT TABLE");
     printf("\n======================================");
     printf("\nMacro Name\tStarting Index");
@@ -52,7 +51,7 @@ int main() {
 
     printf("\n\nMDT TABLE");
     printf("\n======================================");
-    printf("\nopcode\t\tIndex\n");
+    printf("\nOpcode\t\t\tIndex");
     for (int i = 0; i < mdtc; i++) {
         printf("\n%s\t\t%d", instr[i], i);
     }
