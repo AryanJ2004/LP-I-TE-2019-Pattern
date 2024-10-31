@@ -16,4 +16,4 @@ Open the Code Files: Use your preferred IDE to open the code files and explore t
 Compile and Run: Follow the instructions provided in each code file or the documentation to compile and run the programs.
 
 # Contribution
-Feel free to fork the repository and make contributions. If you have any suggestions or improvements, please open an issue or submit a pull request.
+Feel free to fork the repository and make contributions. If you have any suggestions or improvements, please open an issue or submit a pull request. <br>More practical codes will be updated soon!
