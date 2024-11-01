@@ -39,7 +39,7 @@ void FIFOPageReplacement(int pages[], int n, int frameSize) {
 
 int main() {
     /* You can take input for pages and framesize from user and pass it to the function accordingly*/
-    int pages[] = {7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3,2,1,20,1,7,0,1};
+    int pages[] = {7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3,2,1,2,0,1,7,0,1};
     int n = sizeof(pages) / sizeof(pages[0]);
     int frameSize = 3;
 
