@@ -9,8 +9,8 @@ Relevant libraries and dependencies (if applicable) should be installed.
 
 # Clone the Repository:
 ```
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AryanJ2004/LP-I-TE-2019-Pattern.git
+cd LP-I-TE-2019-Pattern
 ```
 Open the Code Files: Use your preferred IDE to open the code files and explore the implementation. <br>
 Compile and Run: Follow the instructions provided in each code file or the documentation to compile and run the programs.
